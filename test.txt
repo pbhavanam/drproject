@@ -1,0 +1,4 @@
+Hi Hello world this is new file in git
+This is addition to the git editor
+This is not a comedy..
+`
