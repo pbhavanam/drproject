@@ -1,4 +1,6 @@
 Hi Hello world this is new file in git
 This is addition to the git editor
 This is not a comedy..
-;This is modified file`
+;This is modified fil
+While I am driving to a new direction it is hard to call
+`
